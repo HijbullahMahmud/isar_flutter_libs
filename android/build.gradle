@@ -1,0 +1,35 @@
+group 'dev.isar.isar_flutter_libs'
+version '1.0'
+
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:8.5.2'
+    }
+}
+
+rootProject.allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+apply plugin: 'com.android.library'
+
+android {
+    namespace 'dev.isar.isar_flutter_libs' // Add a proper namespace here
+    compileSdkVersion 35
+
+    defaultConfig {
+        minSdkVersion 16
+    }
+}
+
+dependencies {
+    implementation "androidx.startup:startup-runtime:1.1.1"
+}

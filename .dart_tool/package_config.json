@@ -1,0 +1,76 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "characters",
+      "rootUri": "file:///Users/mac/.pub-cache/hosted/pub.dev/characters-1.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "collection",
+      "rootUri": "file:///Users/mac/.pub-cache/hosted/pub.dev/collection-1.19.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "ffi",
+      "rootUri": "file:///Users/mac/.pub-cache/hosted/pub.dev/ffi-2.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "3.7"
+    },
+    {
+      "name": "flutter",
+      "rootUri": "file:///Users/mac/Development/Installation/Flutter/flutter/packages/flutter",
+      "packageUri": "lib/",
+      "languageVersion": "3.7"
+    },
+    {
+      "name": "isar",
+      "rootUri": "file:///Users/mac/.pub-cache/hosted/pub.dev/isar-3.1.0+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "js",
+      "rootUri": "file:///Users/mac/.pub-cache/hosted/pub.dev/js-0.6.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "material_color_utilities",
+      "rootUri": "file:///Users/mac/.pub-cache/hosted/pub.dev/material_color_utilities-0.11.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///Users/mac/.pub-cache/hosted/pub.dev/meta-1.16.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "sky_engine",
+      "rootUri": "file:///Users/mac/Development/Installation/Flutter/flutter/bin/cache/pkg/sky_engine",
+      "packageUri": "lib/",
+      "languageVersion": "3.7"
+    },
+    {
+      "name": "vector_math",
+      "rootUri": "file:///Users/mac/.pub-cache/hosted/pub.dev/vector_math-2.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "isar_flutter_libs",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    }
+  ],
+  "generator": "pub",
+  "generatorVersion": "3.8.1",
+  "flutterRoot": "file:///Users/mac/Development/Installation/Flutter/flutter",
+  "flutterVersion": "3.32.8",
+  "pubCache": "file:///Users/mac/.pub-cache"
+}
